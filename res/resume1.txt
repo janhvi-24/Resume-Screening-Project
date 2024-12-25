@@ -1,0 +1,3 @@
+Name: John Doe
+Skills: Java, Python, SQL
+Experience: 5 years at TechCorp
